@@ -1,0 +1,34 @@
+body {
+    background: #fc8550;
+    color: #fff;
+    padding: 25px;
+    font-family: strong;
+  }
+  
+  h1{
+  font-size: 40px;
+  border: 5px solid #343f68;
+  background: #343f68;
+  }
+  
+  li{
+  font-size: 30px;
+  border: 5px solid #193364;
+  background: #d27557;
+  }
+  
+  h2{
+  font-size: 40px;
+  border: 5px solid #193364;
+  background: #343f68;
+  }
+  
+  a{
+  color: #343f68;
+  font-size: 30px;
+  }
+  
+  a:hover{
+  color: #5e17eb;
+  
+    }
